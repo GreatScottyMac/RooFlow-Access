@@ -1,5 +1,7 @@
 <div align="center">
 
+## Leave a request in [Discussions](https://github.com/GreatScottyMac/RooFlow-Access/discussions) or [Issues](https://github.com/GreatScottyMac/RooFlow-Access/issues) and then when [RooFlow](https://github.com/GreatScottyMac/RooFlow) is switched to private, you'll receive a Collaborator invite.
+
 # RooFlow Project Access & Information
 
 <img src="https://raw.githubusercontent.com/GreatScottyMac/RooFlow/main/images/rooflow_logo.png" alt="RooFlow Logo" width="300"/>
