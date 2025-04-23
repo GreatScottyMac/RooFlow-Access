@@ -1,6 +1,8 @@
 <div align="center">
 
-## Leave a request in [Discussions](https://github.com/GreatScottyMac/RooFlow-Access/discussions) or [Issues](https://github.com/GreatScottyMac/RooFlow-Access/issues) and then when [RooFlow](https://github.com/GreatScottyMac/RooFlow) is switched to private, you'll receive a Collaborator invite.
+## [RooFlow](https://github.com/GreatScottyMac/RooFlow) has been updated and hopefully won't need to go private, as long as the Roo Code authors aren't getting swamped with support tickets from RooFlow users! 😉 
+
+<br>
 
 # RooFlow Project Access & Information
 
